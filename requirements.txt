@@ -1,0 +1,8 @@
+asgiref==3.12.1
+Django==5.2.17
+gunicorn==26.1.0
+neo4j==6.2.0
+python-dotenv==1.2.3
+pytz==2026.3.post1
+sqlparse==0.6.0
+tzdata==2026.3
